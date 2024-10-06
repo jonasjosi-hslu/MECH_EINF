@@ -1,0 +1,10 @@
+[user]
+    name = Jonas Josi
+    email = jonas.josi@hslu.ch
+
+[core]
+    editor = code --wait  # Setzt Visual Studio Code als Editor
+    autocrlf = input      # Automatisches Umwandeln von Zeilenenden
+
+[color]
+    ui = auto             # Aktiviert die farbige Ausgabe

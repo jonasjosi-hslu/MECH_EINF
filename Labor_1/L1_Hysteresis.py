@@ -6,7 +6,7 @@
 ¦    Last modified: 2023/03/01                          ¦
 ¦    Python Version: 3.7.3                              ¦
 ------------------------------------------------------"""
-# hallo1
+# hallo2
 import time
 import grovepi
 
